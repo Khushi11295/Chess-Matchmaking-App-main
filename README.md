@@ -10,7 +10,8 @@ A real-time multiplayer chess application inspired by Chess.com! Built with Expr
 
 🤖 Smart Move Validation – Chess.js ensures every move follows the official chess rules.
 
-📜 Modular & Scalable Code – Designed for future enhancements and easy maintenance.
+📜 Modular & Scalable Code – Designed for future enhancements and easy maintenance. 
+![image alt](https://github.com/Khushi11295/Chess-Matchmaking-App-main/blob/main/Screenshot%202025-03-19%20162735.png)
 
 🚀 Technologies Used
 
