@@ -49,7 +49,7 @@ This project was an exciting hands-on journey, providing deep insights into:
 ✅ Real-time client-server interactions using Socket.IO
 ✅ Implementing chess logic with Chess.js
 ✅ Structuring a scalable backend with Express.js
-✅ Rendering dynamic content using EJS
+✅ Rendering dynamic content using EJS 
 
 🔮 Future Enhancements
 
